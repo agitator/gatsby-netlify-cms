@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Hallo Netlify
+title: Hallo Netlify Zwei
 date: 2022-01-19T07:33:51.630Z
 description: Integer posuere erat a ante venenatis dapibus posuere velit
   aliquet. Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget
